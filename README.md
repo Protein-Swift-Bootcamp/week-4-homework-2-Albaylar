@@ -21,15 +21,15 @@
 
 - First ViewController
 
-![1](https://user-images.githubusercontent.com/67964948/211200008-a141fc78-42b7-4bf6-9002-dc014819fc57.png).
+ <img width="400" alt="First" src=![1](https://user-images.githubusercontent.com/67964948/211200008-a141fc78-42b7-4bf6-9002-dc014819fc57.png).
 
 - Second ViewController
-
-![2](https://user-images.githubusercontent.com/67964948/211200028-a1a3b6e4-0aff-4339-89ca-cfdceaf98d05.png)
+      
+ <img width="400" alt="Second" src=![2](https://user-images.githubusercontent.com/67964948/211200028-a1a3b6e4-0aff-4339-89ca-cfdceaf98d05.png)
 
 -Third View Controller
 
-![3](https://user-images.githubusercontent.com/67964948/211200049-1cc0c21f-11b8-4502-b65f-9134cf43cbb3.png)
+ <img width="400" alt="Third" src=![3](https://user-images.githubusercontent.com/67964948/211200049-1cc0c21f-11b8-4502-b65f-9134cf43cbb3.png)
 
 #Project's Video
 
